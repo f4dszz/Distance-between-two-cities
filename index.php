@@ -21,7 +21,7 @@
     <![endif]-->
   </head>
   <body>
-    
+
       <div class="jumbotron">
           <div class="container-fluid">
               <h1>Distance between cities App.</h1>
@@ -40,24 +40,24 @@
                       </div>
                   </div>
               </form>
-              
+
               <div class="col-xs-offset-2 col-xs-10">
               <button class="btn btn-info btn-lg" onclick="calcRoute();">Submit</button>
               </div>
           </div>
           <div class="container-fluid">
               <div id="googleMap">
-              
+
               </div>
               <div id="output">
-              
+
               </div>
           </div>
-      
+
       </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCwJ2Vepe9L2Miuh7QH87SR_RItIXHlX6Q&libraries=places"></script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCOBMDmxHazUTV_dTfRcvdymXyL1nhcHCU&libraries=places"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
