@@ -25,7 +25,7 @@
       <div class="jumbotron">
           <div class="container-fluid">
               <h1>Distance between cities App.</h1>
-              <p>Our app will help you calculate travelling distances.</p>
+              <p>My app will help you calculate travelling distances.</p>
               <form class="form-horizontal">
                   <div class="form-group">
                       <label for="from" class="col-xs-2 control-label">From:</label>
